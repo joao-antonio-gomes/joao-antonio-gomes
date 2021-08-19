@@ -21,4 +21,5 @@
 <a href="https://github.com/joao-antonio-gomes">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/?username=joao-antonio-gomes&repo=to-do-list">
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=github-readme-stats)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=to-do-list)]
