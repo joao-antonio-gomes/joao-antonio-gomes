@@ -19,5 +19,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <a href="https://github.com/joao-antonio-gomes">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=to-do-list&show_owner">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&show_owner=joao-antonio-gomes&repo=to-do-list">
 </a>
