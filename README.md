@@ -18,6 +18,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a href="https://github.com/joao-antonio-gomes">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&show_owner=joao-antonio-gomes&repo=to-do-list">
+<a href="https://github.com/joao-antonio-gomes/to-do-list">
+  <img align="center" height="90rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&show_owner=joao-antonio-gomes&repo=to-do-list">
 </a>
