@@ -26,3 +26,6 @@
 <a href="https://github.com/joao-antonio-gomes/sistema-gestao-alunos">
   <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=sistema-gestao-alunos">
 </a>
+<a href="https://github.com/joao-antonio-gomes/blog-nodejs">
+  <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=blog-nodejs">
+</a>
