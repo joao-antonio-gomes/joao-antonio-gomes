@@ -19,6 +19,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projetos concluídos
+<a href="https://github.com/joao-antonio-gomes/sistema-gestao-alunos">
+  <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&show_owner=joao-antonio-gomes&repo=to-do-list">
+</a>
 <a href="https://github.com/joao-antonio-gomes/to-do-list">
   <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&show_owner=joao-antonio-gomes&repo=to-do-list">
 </a>
