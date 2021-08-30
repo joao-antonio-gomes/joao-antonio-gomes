@@ -1,6 +1,5 @@
 # Olá, eu sou João! :)
 
-
 <a href="https://github.com/joao-antonio-gomes">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=joao-antonio-gomes&show_icons=true">
 </a>
@@ -9,6 +8,7 @@
 </a>
 
 ## Languages, frameworks and tools
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,11 +21,8 @@
 ## Projetos concluídos
 
 <a href="https://github.com/joao-antonio-gomes/sistema-gestao-alunos">
-  <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=sistema-gestao-alunos">
-</a>
-<a href="https://github.com/joao-antonio-gomes/blog-nodejs">
-  <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=blog-nodejs">
+  <img style="width: 100%" align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=sistema-gestao-alunos">
 </a>
 <a href="https://github.com/joao-antonio-gomes/to-do-list">
-  <img align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=to-do-list">
-</a>
+  <img style="width: 100%" align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=to-do-list">
+  </a>
