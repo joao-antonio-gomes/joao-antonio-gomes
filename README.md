@@ -17,15 +17,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Projetos concluídos
-
-<a href="https://github.com/joao-antonio-gomes/sistema-gestao-alunos">
-  <img style="width: 100%" align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=sistema-gestao-alunos">
-</a>
-<a href="https://github.com/joao-antonio-gomes/to-do-list">
-  <img style="width: 100%" align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=to-do-list">
-  </a>
-<a href="https://github.com/joao-antonio-gomes/blog-nodejs">
-  <img style="width: 100%" align="center" height="130rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-antonio-gomes&repo=blog-nodejs">
-  </a>
