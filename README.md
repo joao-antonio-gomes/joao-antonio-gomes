@@ -1,5 +1,5 @@
 # Hello, I'm João! :)
-## About my self
+## About myself
 I'm in love with software development, especially by back-end.
 Currently i work professionally with PHP, but i also know the principles of development with Java, Spring, JavaEE.
 I'm a person who thinks that a good software is a well-written and testable software, always thinking in testing driven development.
