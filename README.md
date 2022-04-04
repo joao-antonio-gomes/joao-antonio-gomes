@@ -1,4 +1,9 @@
-# Olá, eu sou João! :)
+# Hello, I'm João! :)
+## About my self
+I'm in love with software development, especially by back-end.
+Currently i work professionally with PHP, but i also know the principles of development with Java, Spring, JavaEE.
+I'm a person who thinks that a good software is a well-written and testable software, always thinking in testing driven development.
+I'm curious and thirsty for knowledge, always studying to maintain my knowledge up to date. Currently i'm studying AWS solutions.
 
 <a href="https://github.com/joao-antonio-gomes">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=joao-antonio-gomes&show_icons=true">
@@ -16,4 +21,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
