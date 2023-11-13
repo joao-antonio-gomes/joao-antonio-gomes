@@ -3,7 +3,7 @@
 I'm in love with software development and work with it since 2021/06.
 Currently I work professionally with Java, JavaEE, Spring Framework, but I also have experience with PHP, Eloquent and Laravel.
 I'm a person who thinks that a good software is a well-written and testable software, always thinking in testing driven development.
-I'm curious and thirsty for knowledge, always studying to maintain my knowledge up to date. Currently i'm studying AWS solutions and Design Patterns.
+I'm curious and thirsty for knowledge, always studying to maintain my knowledge up to date. Currently I'm studying AWS solutions and Design Patterns.
 
 <a href="https://github.com/joao-antonio-gomes">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=joao-antonio-gomes&show_icons=true">
